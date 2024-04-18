@@ -76,4 +76,3 @@ After installing these plugins, you may need to configure them according to your
 4. **Docker Installation** 
 
 ![alt text](image-4.png)
-
